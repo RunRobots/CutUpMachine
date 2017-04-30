@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content> 
+  <!-- NY TIMES -->
+  <entry>
+    <name>NY Times home page</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=babebe632bf7c058284fc7c6f8585634&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times internet</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=c6c09f480aacbf99fe031b8e5b816693&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times world</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=a4ce9ea49e639d197daf6100c3a8e8d9&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times USA</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=f2b42dc7ee78b9e5ab9fb26e8e9068bf&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times politics</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=53db218655ba65cdeffd92516d957606&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times business</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=52b198c70c1414425251eb889769ccb0&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times space and cosmos</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=5b7675f43d88135c13f0d2827b54ef91&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times bits</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=29915b59f3932985553c383d9b9b9d08&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times education</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=4aed4b482130c727d96935bb54f631d0&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times sports</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=a3a6c6981f7cf5439f4dad55779b2d14&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times soccer</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7b0f24cf139de64f588a18aa0f6f22b5&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times automobiles</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=acc7f7712ae9af60532e7954066430ba&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times health</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=c0ccc4fe4aa36fc17c088965f1eb81c1&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times arts</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=df83a51d50ce7a080725c604c1c659f8&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times movies</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=b23da4153249305ab7330be9dff25d19&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times fashion & style</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=d5a472cf51f0bb5d1b8c39ac02d6041d&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times travel</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=29928b40aa09063b24d3e8685e26811f&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times real estate</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=80d152498b0dbc8e1bf211183a62fb31&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>NY Times economy</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=1c52fe78b0b435853588a464fea8a041&_render=rss</feed>
+  </entry>
+  <!-- WASH TIMES -->
+  <entry>
+    <name>Wash Times world</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=df0c57ae23ebc78b998adf6f2502438e&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times politics</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=4c59fd702d7cc435a3a16dc827c54cc2&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times front page</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=4debc6349f5316e59e1cf79c64f276a3&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times economy</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=455303d7710a82bd256586a1de7b9a10&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times editorials</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=38c96a41f43f7f790966eb6b0f2aa99a&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times racing</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=31ad9498f261f45d61f1a43fda46f70b&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times Nugent</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=438de1dd49231dcc4cd61a6c931ede91&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times technology</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=e8278142cad387df0bda2685ef767fa5&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times sports</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=50978228386aff1e5d9fb02b50503c2b&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times security</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=be9d787a772611e788677be1b4446217&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times water cooler</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=696d9c7b497fb2258bd6f75068dc7d1a&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times home & living</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=bb6c7e64adcf20fdb00de36ede2dd0c5&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times health</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=2789e052643729ef710b9ae769508503&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times Inside the Beltway</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=cef908616e531d8cb0a7ce83f3366d65&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wash Times entertainment</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=2255fb3ec14dc423598ed99f41bc4026&_render=rss</feed>
+  </entry>
+  <!-- BBC -->
+  <entry>
+    <name>BBC technology</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=093b3df5c127222c15cc651304ecbc14&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC science</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=86346ea92f911e63ddc70d15c4b4e218&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC business</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7744bff14587a1d53353f24b6421fd98&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC have your say</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7a07a77be46774fba157391be2ed2c78&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC front page</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=62de4907bcbd6f6b0d4ebf6a843127c4&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC entertainment</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=a27be6c67da11496a53f895b093ed318&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>BBC football</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=8dad3e6c19012de9ba3ad67a8a5e9159&_render=rss</feed>
+  </entry>
+  <!-- WALL STREET JOURNAL -->
+  <entry>
+    <name>WSJ Arts & Entertaiment</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=9fa67da5782e8566cca0e97fbd9c7304&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ US business</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=df2f9a56b479d2daa809c8ce0ba4e68b&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ USA</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=ee2fcedf5ad733c7009dc5b00cbedac7&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ personal finance</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=87120b6c063ae8edfab4ecc1dfa6f8f7&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ health</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7c38633574279a047e4d612bd12da9e6&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ economy</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=f241936bf9f57220d24fc6d2f8e17ecb&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ technology</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=9f161c3b0c0db46fc6e4b9b66a1a04d4&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ lifestyle</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=2a279cb14eb011a09973b2de95f2d7fd&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>WSJ markets</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7fb3dc65b1d5adcd3dba6649bd25e6b9&_render=rss</feed>
+  </entry>
+  <!-- DAILY MAIL UK -->
+  <entry>
+    <name>Daily Mail UK science</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=b05d9f6bf4d6c5098150ccbac0c52ee1&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK money</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=03e46c54ad9fc3566b9ccd69c07b30c5&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK femail</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=5461370f1d747e92ec64729d9d04cc24&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK headlines</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=7f4b39884c8a854115cfdd3672b82e76&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK sports</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=0de385b9f491cbd942f0999a2c745bfc&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK health</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=4ef73ebefe42a76111eb499866ce0beb&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Daily Mail UK showbiz</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=ab287807209b4803add82257fc898ac4&_render=rss</feed>
+  </entry>
+  <!-- WIRED -->
+  <entry>
+    <name>Wired opinion</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=696957f69f687a58de9e2ac6172d13fc&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wired science</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=123947f12c01332e21ded7700e8bab43&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wired danger room</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=457fadb465caee5efed2ece7c704aca6&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wired business</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=745f8e6a03cb6808390a5a5345b1851a&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Wired gadget lab</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=457f7b54d640489a7e4b742f6e39131d&_render=rss</feed>
+  </entry>
+  <!-- MISC -->
+  <entry>
+    <name>Huffington Post</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=1d8b7dfd94b4d91467457b0d3f645c34&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Infowars</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=54b2c49ac4c381e93b032417a136fbc8&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Drudge Report</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=f09caaa6184a763c29f3823afeee7fcc&_render=rss</feed>
+  </entry>
+  <entry>
+    <name>Lew Rockwell</name>
+    <feed>http://pipes.yahooapis.com/pipes/pipe.run?_id=0da1570b68cf66c2e3e5bb79303d865f&_render=rss</feed>
+  </entry>
+</content>
